@@ -136,7 +136,7 @@
   },
   "dependencies": {
     "@redocly/react-dropdown-aria": "^2.0.11",
-    "@types/node": "^13.11.1",
+    "@types/node": "^13.13.52",
     "classnames": "^2.2.6",
     "decko": "^1.2.0",
     "dompurify": "^2.0.12",

@@ -153,7 +153,7 @@
     "polished": "^3.6.5",
     "prismjs": "^1.20.0",
     "prop-types": "^15.7.2",
-    "react-tabs": "^3.1.1",
+    "react-tabs": "^3.2.3",
     "slugify": "^1.4.4",
     "stickyfill": "^1.1.1",
     "swagger2openapi": "^6.2.1",
